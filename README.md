@@ -11,7 +11,6 @@ Esta es la configuración EFI que utilizo para correr **macOS Ventura** en mi eq
 | GPU              | ASUS Dual Radeon RX 5500 XT EVO 8GB        |
 | RAM              | 32GB Corsair Vengeance RGB PRO DDR4 3600MHz|
 | SSD (macOS)      | Corsair MP600 1TB NVMe                     |
-| Refrigeración    | NZXT Kraken Z63 RGB                        |
 | Gabinete         | Lian Li 011 Dynamic Razer Edition          |
 
 ## ✅ Funciona correctamente
