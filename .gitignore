@@ -1,0 +1,27 @@
+# Archivos del sistema
+.DS_Store
+.Spotlight-V100
+.Trashes
+._*
+*.localized
+.fseventsd
+.VolumeIcon.icns
+
+# Archivos de configuración personales
+*.bak
+*.swp
+*.tmp
+
+# Archivos ocultos y carpetas de trabajo comunes
+.idea/
+.vscode/
+*.log
+*.lock
+
+# Archivos EFI que no quieres subir (si deseas excluir backups, por ejemplo)
+EFI/OC/Logs/
+EFI/OC/Bootstrap/
+
+# Otros comunes en proyectos Hackintosh
+*.old
+*.backup
